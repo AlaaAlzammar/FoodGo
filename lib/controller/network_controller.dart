@@ -1,0 +1,4 @@
+
+class NetworkController {
+  final Connectivity 
+}
